@@ -32,13 +32,13 @@ With extension :
 <img width="1920" height="3425" alt="screencapture-en-wikipedia-org-wiki-Early-English-dictionaries-2025-07-27-03_06_32" src="https://github.com/user-attachments/assets/ee0be1d1-ae0f-4dcf-8c8e-13d316c3a2e5" />
 
 
-### 2. ICICI bank
+### 2. Github
 Original : 
-<img width="1920" height="7732" alt="screencapture-icicibank-personal-banking-cards-credit-card-2025-07-27-03_23_28" src="https://github.com/user-attachments/assets/87081555-6a73-4e49-b175-7ca830130839" />
+<img width="1920" height="3293" alt="screencapture-github-2025-07-27-03_26_43" src="https://github.com/user-attachments/assets/69d3f932-de9c-4758-9533-79f531620f12" />
 
 
 With extension : 
-<img width="1920" height="7732" alt="screencapture-icicibank-personal-banking-cards-credit-card-2025-07-27-03_22_44" src="https://github.com/user-attachments/assets/ba1d098f-b58b-443b-9edc-70e51f34e2e8" />
+<img width="1920" height="3293" alt="screencapture-github-2025-07-27-03_27_09" src="https://github.com/user-attachments/assets/17f47037-6fbf-4843-bfc0-67a41bd854bc" />
 
 
 
