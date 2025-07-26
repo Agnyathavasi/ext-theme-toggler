@@ -34,10 +34,12 @@ With extension :
 
 ### 2. ICICI bank
 Original : 
-<img width="1920" height="7732" alt="screencapture-icicibank-personal-banking-cards-credit-card-2025-07-27-03_08_45" src="https://github.com/user-attachments/assets/950eb57b-47bf-4c8e-b07c-79227de13e74" />
+<img width="1920" height="7732" alt="screencapture-icicibank-personal-banking-cards-credit-card-2025-07-27-03_23_28" src="https://github.com/user-attachments/assets/87081555-6a73-4e49-b175-7ca830130839" />
+
 
 With extension : 
-<img width="1920" height="7732" alt="screencapture-icicibank-personal-banking-cards-credit-card-2025-07-27-03_09_25" src="https://github.com/user-attachments/assets/d09ee5c5-6af0-4237-b464-e44506250e9e" />
+<img width="1920" height="7732" alt="screencapture-icicibank-personal-banking-cards-credit-card-2025-07-27-03_22_44" src="https://github.com/user-attachments/assets/ba1d098f-b58b-443b-9edc-70e51f34e2e8" />
+
 
 
 ### 3. Gmail
